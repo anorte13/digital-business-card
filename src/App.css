@@ -44,3 +44,22 @@
   margin: 0px;
   padding: 20px;
 }
+.footer-container {
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+li {
+  list-style: none;
+}
+.footer--list {
+  display: flex;
+  flex-direction: row;
+  padding: 0;
+  justify-content: center;
+  gap: 30px;
+}
+.footer--icon {
+  width: 35px;
+}
