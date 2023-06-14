@@ -23,20 +23,24 @@
   color: gold;
   font-weight: 600;
 }
-.about--container {
+.about--container,
+.interests--container {
   display: flex;
   flex-direction: column;
 }
 .about--header,
-.info--header {
+.info--header,
+.interests--header {
   font-weight: 200;
   font-size: 30px;
 }
-.about--header {
+.about--header,
+.interests--header {
   margin: 0;
   margin-left: 18px;
 }
-.about--main {
+.about--main,
+.interests--main {
   margin: 0px;
   padding: 20px;
 }
