@@ -20,4 +20,23 @@
 }
 .info--about {
   font-size: 15px;
+  color: gold;
+  font-weight: 600;
+}
+.about--container {
+  display: flex;
+  flex-direction: column;
+}
+.about--header,
+.info--header {
+  font-weight: 200;
+  font-size: 30px;
+}
+.about--header {
+  margin: 0;
+  margin-left: 18px;
+}
+.about--main {
+  margin: 0px;
+  padding: 20px;
 }
