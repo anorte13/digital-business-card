@@ -1,2 +1,2 @@
 # digital-business-card-react-app
-Part of the Scrimba React Course, I created a Digital Business Card to practice the basics of ReactJS.
+Created a digital business card to practice the basics of ReactJS.
