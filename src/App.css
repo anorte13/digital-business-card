@@ -1,5 +1,6 @@
 .app--body {
-  width: 350px;
+  max-width: 400px;
+  min-width: 400px;
   margin: 50px auto;
   background-color: #1a1b21;
 }
@@ -10,7 +11,7 @@
   align-items: center;
 }
 .info--photo {
-  width: 350px;
+  width: 400px;
 }
 .info--header,
 .info--about {
@@ -31,8 +32,9 @@
 .about--header,
 .info--header,
 .interests--header {
-  font-weight: 200;
+  font-weight: 800;
   font-size: 30px;
+  padding: 10px;
 }
 .about--header,
 .interests--header {
@@ -42,7 +44,7 @@
 .about--main,
 .interests--main {
   margin: 0px;
-  padding: 20px;
+  padding: 25px;
 }
 .footer-container {
   background-color: black;
